@@ -267,10 +267,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-- **Twitter**: [@YourTwitter]
-- **Discord**: [Your Discord]
-- **Email**: [your.email@example.com]
-- **Website**: [your-website.com]
+- **Email**: arturvojceh@gmail.com
+- **Telegram**: @VAA369
 
 ---
 
